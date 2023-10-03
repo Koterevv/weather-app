@@ -1,3 +1,7 @@
 node_modules/
 .cache/
 public
+src/node
+.env.development
+src/pages/contact
+src/componensts/FormContact
